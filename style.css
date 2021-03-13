@@ -56,6 +56,19 @@ table {
     border-bottom: 1px solid rgba(0, 0, 0, 0.1);
 }
 
+#serene-logo{
+    height: 40px;
+    width: 40px;
+    position: relative;
+    top: 8px;
+}
+
+#serene{
+    margin-top: 10px;
+    /* padding-top: -5px; */
+    
+}
+
 nav{
     width: 100%;
     float: right;
